@@ -353,7 +353,7 @@ but i designed it with 375px and subitude it to 630px it a hack i learnt during 
         width: 90%;
         background: white;
         border-radius: 30px;
-        border: 2px solid red;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
     }
     .navContainer:hover{
         height: 400px;
